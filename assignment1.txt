@@ -1,3 +1,0 @@
-6.File creation: create a file named "Audit.txt" and assign it the following permission:
-rwxr-x---
-soloution
