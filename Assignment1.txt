@@ -1,0 +1,29 @@
+1.The full request: a file currently has -rwxr-xr-x permissions.You want to change it so the owner has Read or write , the group has read only and others have no access.what is the 3-digit numeric command ?
+solution
+
+640
+
+2.The Exec
+6.File creation: create a file named "Audit.txt" and assign it the following permission:
+rwxr-x---
+solution
+
+touch Audit.txt
+
+chmod 750 Audit.txt
+
+7.Numeric to symbolic:what is the equivalent of a 741 permission in symbolic notation?
+solution
+
+rwxr----x
+
+8.Numeric to symbolic:what is the equivalent of a 500 permission in symbolic notation?
+soloution
+
+-wx------
+
+9.Symbolic to numeric:what is the numeric equivalent of -r-xrw-r--?
+solution
+
+564
+
